@@ -2,7 +2,7 @@
 memory_game
 # Memory matching game
 
-## <b> [Click here to Play the GAME!!](https://Aparna2006.github.io/Memory-Matching-Game/)
+## <b> [Click here to Play the GAME!!](https://aparna2006.github.io/memory_matching_game/)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
